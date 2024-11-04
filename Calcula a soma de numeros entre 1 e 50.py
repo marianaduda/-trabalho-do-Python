@@ -1,4 +1,4 @@
-#Ylena Maria 
+#Mariana Eduarda 
 soma = 0
 for numero in range(1, 51):
     if numero % 2 == 0:
